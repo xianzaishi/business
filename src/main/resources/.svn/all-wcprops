@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/business/!svn/ver/11/trunk/business/src/main/resources
+END
+sqlMapconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMapconfig.xml
+END
+mysqljdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/mysqljdbc.properties
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/spring-security.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/applicationContext.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/log4j.xml
+END

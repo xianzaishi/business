@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/pages/ums/user
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/pages/ums/user/upload.jsp
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/pages/ums/user/edit.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/pages/ums/user/index.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/pages/ums/user/add.jsp
+END
+authorize.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/pages/ums/user/authorize.jsp
+END

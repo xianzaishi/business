@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/business/!svn/ver/10/trunk/business
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/business/!svn/ver/11/trunk/business/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/business/!svn/ver/11/trunk/business/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/business/!svn/ver/11/trunk/business/pom.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/business/!svn/ver/11/trunk/business/.checkstyle
+END

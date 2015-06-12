@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/business/!svn/ver/11/trunk/business/src/main/java/com/zhl/business/serviceImpl
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/business/!svn/ver/11/trunk/business/src/main/java/com/zhl/business/serviceImpl/UserServiceImpl.java
+END
+RoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/business/!svn/ver/11/trunk/business/src/main/java/com/zhl/business/serviceImpl/RoleServiceImpl.java
+END
+RepairServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/business/!svn/ver/11/trunk/business/src/main/java/com/zhl/business/serviceImpl/RepairServiceImpl.java
+END
+CommunityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/src/main/java/com/zhl/business/serviceImpl/CommunityServiceImpl.java
+END

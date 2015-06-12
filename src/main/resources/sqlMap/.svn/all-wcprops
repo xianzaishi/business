@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMap
+END
+community_sqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMap/community_sqlMap.xml
+END
+shop_sqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMap/shop_sqlMap.xml
+END
+user_sqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMap/user_sqlMap.xml
+END
+role_sqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMap/role_sqlMap.xml
+END
+repair_sqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/business/!svn/ver/11/trunk/business/src/main/resources/sqlMap/repair_sqlMap.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao
+END
+ResourceDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/ResourceDao.class
+END
+BaseDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/BaseDao.class
+END
+ResourceDao$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/ResourceDao$1.class
+END
+UserDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/UserDao.class
+END
+RoleDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/RoleDao.class
+END
+RepairDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/RepairDao.class
+END
+UserDao$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/UserDao$1.class
+END
+CommunityDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/dao/CommunityDao.class
+END

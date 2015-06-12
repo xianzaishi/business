@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util
+END
+MyUserDetailsService.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util/MyUserDetailsService.class
+END
+UserUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util/UserUtil.class
+END
+MyFilterInvocationSecurityMetadataSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util/MyFilterInvocationSecurityMetadataSource.class
+END
+MyAccessDecisionManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util/MyAccessDecisionManager.class
+END
+Utils.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util/Utils.class
+END
+MySecurityFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/util/MySecurityFilter.class
+END

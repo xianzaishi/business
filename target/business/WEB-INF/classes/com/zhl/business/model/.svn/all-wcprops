@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model
+END
+Goods.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Goods.class
+END
+RepairPic.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/RepairPic.class
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/User.class
+END
+Notice.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Notice.class
+END
+Repair.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Repair.class
+END
+Community.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Community.class
+END
+MyFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/MyFile.class
+END
+DeptFolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/DeptFolder.class
+END
+DeptFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/DeptFile.class
+END
+HeadPic.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/HeadPic.class
+END
+RepairReply.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/RepairReply.class
+END
+UserRole.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/UserRole.class
+END
+Role.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Role.class
+END
+Department.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Department.class
+END
+Channel.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Channel.class
+END
+Shop.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Shop.class
+END
+Content.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/model/Content.class
+END

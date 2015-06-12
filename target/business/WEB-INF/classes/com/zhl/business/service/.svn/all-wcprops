@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/service
+END
+UserService.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/service/UserService.class
+END
+RoleService.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/service/RoleService.class
+END
+RepairService.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/service/RepairService.class
+END
+CommunityService.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/business/!svn/ver/11/trunk/business/target/business/WEB-INF/classes/com/zhl/business/service/CommunityService.class
+END

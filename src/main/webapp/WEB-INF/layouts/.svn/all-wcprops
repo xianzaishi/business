@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/layouts
+END
+tiles-cms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/layouts/tiles-cms.xml
+END
+tiles-ums.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/layouts/tiles-ums.xml
+END
+tiles-business.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/business/!svn/ver/11/trunk/business/src/main/webapp/WEB-INF/layouts/tiles-business.xml
+END
